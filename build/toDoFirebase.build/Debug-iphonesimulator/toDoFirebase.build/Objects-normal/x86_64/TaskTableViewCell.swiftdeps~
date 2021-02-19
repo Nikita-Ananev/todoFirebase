@@ -1,0 +1,388 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "TaskTableViewCell"
+provides-nominal:
+- "12toDoFirebase17TaskTableViewCellC"
+provides-member:
+- ["12toDoFirebase17TaskTableViewCellC", ""]
+provides-dynamic-lookup:
+- "buttonBackgroundView"
+- "descriptionBackgroundView"
+- "descriptionLabel"
+- "taskNameBackgroundView"
+- "taskNameLabel"
+depends-top-level:
+- "TaskTableViewCell"
+- "UILabel"
+- "UITableViewCell"
+- "UIView"
+depends-member:
+- ["SK", ""]
+- ["So15CALayerDelegateP", "UILabel"]
+- ["So15CALayerDelegateP", "UIView"]
+- ["So15CALayerDelegateP", ""]
+- ["So15CALayerDelegateP", "buttonBackgroundView"]
+- ["So15CALayerDelegateP", "descriptionBackgroundView"]
+- ["So15CALayerDelegateP", "descriptionLabel"]
+- ["So15CALayerDelegateP", "init"]
+- ["So15CALayerDelegateP", "taskNameBackgroundView"]
+- ["So15CALayerDelegateP", "taskNameLabel"]
+- ["s7CVarArgP", ""]
+- ["Sl", ""]
+- ["SL", ""]
+- ["s28CustomDebugStringConvertibleP", ""]
+- ["s23CustomStringConvertibleP", ""]
+- ["SQ", ""]
+- ["s43ExpressibleByExtendedGraphemeClusterLiteralP", ""]
+- ["s32ExpressibleByStringInterpolationP", ""]
+- ["s26ExpressibleByStringLiteralP", ""]
+- ["s33ExpressibleByUnicodeScalarLiteralP", ""]
+- ["SH", ""]
+- ["s25LosslessStringConvertibleP", ""]
+- ["So8NSCodingP", "UILabel"]
+- ["So8NSCodingP", "UIView"]
+- ["So8NSCodingP", ""]
+- ["So8NSCodingP", "buttonBackgroundView"]
+- ["So8NSCodingP", "descriptionBackgroundView"]
+- ["So8NSCodingP", "descriptionLabel"]
+- ["So8NSCodingP", "init"]
+- ["So8NSCodingP", "taskNameBackgroundView"]
+- ["So8NSCodingP", "taskNameLabel"]
+- ["So8NSObjectC", "UILabel"]
+- ["So8NSObjectC", "UIView"]
+- ["So8NSObjectC", ""]
+- ["So8NSObjectC", "buttonBackgroundView"]
+- ["So8NSObjectC", "descriptionBackgroundView"]
+- ["So8NSObjectC", "descriptionLabel"]
+- ["So8NSObjectC", "init"]
+- ["So8NSObjectC", "taskNameBackgroundView"]
+- ["So8NSObjectC", "taskNameLabel"]
+- ["So8NSObjectP", "UILabel"]
+- ["So8NSObjectP", "UIView"]
+- ["So8NSObjectP", ""]
+- ["So8NSObjectP", "buttonBackgroundView"]
+- ["So8NSObjectP", "descriptionBackgroundView"]
+- ["So8NSObjectP", "descriptionLabel"]
+- ["So8NSObjectP", "init"]
+- ["So8NSObjectP", "taskNameBackgroundView"]
+- ["So8NSObjectP", "taskNameLabel"]
+- ["ST", ""]
+- ["12toDoFirebase17TaskTableViewCellC", "UILabel"]
+- ["12toDoFirebase17TaskTableViewCellC", "UIView"]
+- ["12toDoFirebase17TaskTableViewCellC", ""]
+- ["12toDoFirebase17TaskTableViewCellC", "buttonBackgroundView"]
+- ["12toDoFirebase17TaskTableViewCellC", "deinit"]
+- ["12toDoFirebase17TaskTableViewCellC", "descriptionBackgroundView"]
+- ["12toDoFirebase17TaskTableViewCellC", "descriptionLabel"]
+- ["12toDoFirebase17TaskTableViewCellC", "init"]
+- ["12toDoFirebase17TaskTableViewCellC", "taskNameBackgroundView"]
+- ["12toDoFirebase17TaskTableViewCellC", "taskNameLabel"]
+- ["s16TextOutputStreamP", ""]
+- ["s20TextOutputStreamableP", ""]
+- ["So29UIAccessibilityIdentificationP", "UILabel"]
+- ["So29UIAccessibilityIdentificationP", "UIView"]
+- ["So29UIAccessibilityIdentificationP", ""]
+- ["So29UIAccessibilityIdentificationP", "buttonBackgroundView"]
+- ["So29UIAccessibilityIdentificationP", "descriptionBackgroundView"]
+- ["So29UIAccessibilityIdentificationP", "descriptionLabel"]
+- ["So29UIAccessibilityIdentificationP", "init"]
+- ["So29UIAccessibilityIdentificationP", "taskNameBackgroundView"]
+- ["So29UIAccessibilityIdentificationP", "taskNameLabel"]
+- ["So12UIAppearanceP", "UILabel"]
+- ["So12UIAppearanceP", "UIView"]
+- ["So12UIAppearanceP", ""]
+- ["So12UIAppearanceP", "buttonBackgroundView"]
+- ["So12UIAppearanceP", "descriptionBackgroundView"]
+- ["So12UIAppearanceP", "descriptionLabel"]
+- ["So12UIAppearanceP", "init"]
+- ["So12UIAppearanceP", "taskNameBackgroundView"]
+- ["So12UIAppearanceP", "taskNameLabel"]
+- ["So21UIAppearanceContainerP", "UILabel"]
+- ["So21UIAppearanceContainerP", "UIView"]
+- ["So21UIAppearanceContainerP", ""]
+- ["So21UIAppearanceContainerP", "buttonBackgroundView"]
+- ["So21UIAppearanceContainerP", "descriptionBackgroundView"]
+- ["So21UIAppearanceContainerP", "descriptionLabel"]
+- ["So21UIAppearanceContainerP", "init"]
+- ["So21UIAppearanceContainerP", "taskNameBackgroundView"]
+- ["So21UIAppearanceContainerP", "taskNameLabel"]
+- ["So17UICoordinateSpaceP", "UILabel"]
+- ["So17UICoordinateSpaceP", "UIView"]
+- ["So17UICoordinateSpaceP", ""]
+- ["So17UICoordinateSpaceP", "buttonBackgroundView"]
+- ["So17UICoordinateSpaceP", "descriptionBackgroundView"]
+- ["So17UICoordinateSpaceP", "descriptionLabel"]
+- ["So17UICoordinateSpaceP", "init"]
+- ["So17UICoordinateSpaceP", "taskNameBackgroundView"]
+- ["So17UICoordinateSpaceP", "taskNameLabel"]
+- ["So13UIDynamicItemP", "UILabel"]
+- ["So13UIDynamicItemP", "UIView"]
+- ["So13UIDynamicItemP", ""]
+- ["So13UIDynamicItemP", "buttonBackgroundView"]
+- ["So13UIDynamicItemP", "descriptionBackgroundView"]
+- ["So13UIDynamicItemP", "descriptionLabel"]
+- ["So13UIDynamicItemP", "init"]
+- ["So13UIDynamicItemP", "taskNameBackgroundView"]
+- ["So13UIDynamicItemP", "taskNameLabel"]
+- ["So18UIFocusEnvironmentP", "UILabel"]
+- ["So18UIFocusEnvironmentP", "UIView"]
+- ["So18UIFocusEnvironmentP", ""]
+- ["So18UIFocusEnvironmentP", "buttonBackgroundView"]
+- ["So18UIFocusEnvironmentP", "descriptionBackgroundView"]
+- ["So18UIFocusEnvironmentP", "descriptionLabel"]
+- ["So18UIFocusEnvironmentP", "init"]
+- ["So18UIFocusEnvironmentP", "taskNameBackgroundView"]
+- ["So18UIFocusEnvironmentP", "taskNameLabel"]
+- ["So11UIFocusItemP", "UILabel"]
+- ["So11UIFocusItemP", "UIView"]
+- ["So11UIFocusItemP", ""]
+- ["So11UIFocusItemP", "buttonBackgroundView"]
+- ["So11UIFocusItemP", "descriptionBackgroundView"]
+- ["So11UIFocusItemP", "descriptionLabel"]
+- ["So11UIFocusItemP", "init"]
+- ["So11UIFocusItemP", "taskNameBackgroundView"]
+- ["So11UIFocusItemP", "taskNameLabel"]
+- ["So20UIFocusItemContainerP", "UILabel"]
+- ["So20UIFocusItemContainerP", "UIView"]
+- ["So20UIFocusItemContainerP", ""]
+- ["So20UIFocusItemContainerP", "buttonBackgroundView"]
+- ["So20UIFocusItemContainerP", "descriptionBackgroundView"]
+- ["So20UIFocusItemContainerP", "descriptionLabel"]
+- ["So20UIFocusItemContainerP", "init"]
+- ["So20UIFocusItemContainerP", "taskNameBackgroundView"]
+- ["So20UIFocusItemContainerP", "taskNameLabel"]
+- ["So27UIGestureRecognizerDelegateP", "UILabel"]
+- ["So27UIGestureRecognizerDelegateP", "UIView"]
+- ["So27UIGestureRecognizerDelegateP", ""]
+- ["So27UIGestureRecognizerDelegateP", "buttonBackgroundView"]
+- ["So27UIGestureRecognizerDelegateP", "descriptionBackgroundView"]
+- ["So27UIGestureRecognizerDelegateP", "descriptionLabel"]
+- ["So27UIGestureRecognizerDelegateP", "init"]
+- ["So27UIGestureRecognizerDelegateP", "taskNameBackgroundView"]
+- ["So27UIGestureRecognizerDelegateP", "taskNameLabel"]
+- ["So24UILargeContentViewerItemP", "UILabel"]
+- ["So24UILargeContentViewerItemP", "UIView"]
+- ["So24UILargeContentViewerItemP", ""]
+- ["So24UILargeContentViewerItemP", "buttonBackgroundView"]
+- ["So24UILargeContentViewerItemP", "descriptionBackgroundView"]
+- ["So24UILargeContentViewerItemP", "descriptionLabel"]
+- ["So24UILargeContentViewerItemP", "init"]
+- ["So24UILargeContentViewerItemP", "taskNameBackgroundView"]
+- ["So24UILargeContentViewerItemP", "taskNameLabel"]
+- ["So30UIPasteConfigurationSupportingP", "UILabel"]
+- ["So30UIPasteConfigurationSupportingP", "UIView"]
+- ["So30UIPasteConfigurationSupportingP", ""]
+- ["So30UIPasteConfigurationSupportingP", "buttonBackgroundView"]
+- ["So30UIPasteConfigurationSupportingP", "descriptionBackgroundView"]
+- ["So30UIPasteConfigurationSupportingP", "descriptionLabel"]
+- ["So30UIPasteConfigurationSupportingP", "init"]
+- ["So30UIPasteConfigurationSupportingP", "taskNameBackgroundView"]
+- ["So30UIPasteConfigurationSupportingP", "taskNameLabel"]
+- ["So11UIResponderC", "UILabel"]
+- ["So11UIResponderC", "UIView"]
+- ["So11UIResponderC", ""]
+- ["So11UIResponderC", "buttonBackgroundView"]
+- ["So11UIResponderC", "descriptionBackgroundView"]
+- ["So11UIResponderC", "descriptionLabel"]
+- ["So11UIResponderC", "init"]
+- ["So11UIResponderC", "taskNameBackgroundView"]
+- ["So11UIResponderC", "taskNameLabel"]
+- ["So30UIResponderStandardEditActionsP", "UILabel"]
+- ["So30UIResponderStandardEditActionsP", "UIView"]
+- ["So30UIResponderStandardEditActionsP", ""]
+- ["So30UIResponderStandardEditActionsP", "buttonBackgroundView"]
+- ["So30UIResponderStandardEditActionsP", "descriptionBackgroundView"]
+- ["So30UIResponderStandardEditActionsP", "descriptionLabel"]
+- ["So30UIResponderStandardEditActionsP", "init"]
+- ["So30UIResponderStandardEditActionsP", "taskNameBackgroundView"]
+- ["So30UIResponderStandardEditActionsP", "taskNameLabel"]
+- ["So15UITableViewCellC", "UILabel"]
+- ["So15UITableViewCellC", "UIView"]
+- ["So15UITableViewCellC", ""]
+- ["So15UITableViewCellC", "buttonBackgroundView"]
+- ["So15UITableViewCellC", "descriptionBackgroundView"]
+- ["So15UITableViewCellC", "descriptionLabel"]
+- ["So15UITableViewCellC", "init"]
+- ["So15UITableViewCellC", "taskNameBackgroundView"]
+- ["So15UITableViewCellC", "taskNameLabel"]
+- ["So18UITraitEnvironmentP", "UILabel"]
+- ["So18UITraitEnvironmentP", "UIView"]
+- ["So18UITraitEnvironmentP", ""]
+- ["So18UITraitEnvironmentP", "buttonBackgroundView"]
+- ["So18UITraitEnvironmentP", "descriptionBackgroundView"]
+- ["So18UITraitEnvironmentP", "descriptionLabel"]
+- ["So18UITraitEnvironmentP", "init"]
+- ["So18UITraitEnvironmentP", "taskNameBackgroundView"]
+- ["So18UITraitEnvironmentP", "taskNameLabel"]
+- ["So23UIUserActivityRestoringP", "UILabel"]
+- ["So23UIUserActivityRestoringP", "UIView"]
+- ["So23UIUserActivityRestoringP", ""]
+- ["So23UIUserActivityRestoringP", "buttonBackgroundView"]
+- ["So23UIUserActivityRestoringP", "descriptionBackgroundView"]
+- ["So23UIUserActivityRestoringP", "descriptionLabel"]
+- ["So23UIUserActivityRestoringP", "init"]
+- ["So23UIUserActivityRestoringP", "taskNameBackgroundView"]
+- ["So23UIUserActivityRestoringP", "taskNameLabel"]
+- ["So6UIViewC", "UILabel"]
+- ["So6UIViewC", "UIView"]
+- ["So6UIViewC", ""]
+- ["So6UIViewC", "buttonBackgroundView"]
+- ["So6UIViewC", "descriptionBackgroundView"]
+- ["So6UIViewC", "descriptionLabel"]
+- ["So6UIViewC", "init"]
+- ["So6UIViewC", "taskNameBackgroundView"]
+- ["So6UIViewC", "taskNameLabel"]
+- ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", ""]
+- ["s35_ExpressibleByBuiltinIntegerLiteralP", "init"]
+- ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", ""]
+- ["10Foundation27_KeyValueCodingAndObservingP", ""]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", ""]
+- ["s38__DefaultCustomPlaygroundQuickLookableP", ""]
+depends-nominal:
+- "SK"
+- "So15CALayerDelegateP"
+- "s7CVarArgP"
+- "Sl"
+- "SL"
+- "s28CustomDebugStringConvertibleP"
+- "s23CustomStringConvertibleP"
+- "SQ"
+- "s43ExpressibleByExtendedGraphemeClusterLiteralP"
+- "s32ExpressibleByStringInterpolationP"
+- "s26ExpressibleByStringLiteralP"
+- "s33ExpressibleByUnicodeScalarLiteralP"
+- "SH"
+- "s25LosslessStringConvertibleP"
+- "So8NSCodingP"
+- "So8NSObjectC"
+- "So8NSObjectP"
+- "ST"
+- "12toDoFirebase17TaskTableViewCellC"
+- "s16TextOutputStreamP"
+- "s20TextOutputStreamableP"
+- "So29UIAccessibilityIdentificationP"
+- "So12UIAppearanceP"
+- "So21UIAppearanceContainerP"
+- "So17UICoordinateSpaceP"
+- "So13UIDynamicItemP"
+- "So18UIFocusEnvironmentP"
+- "So11UIFocusItemP"
+- "So20UIFocusItemContainerP"
+- "So27UIGestureRecognizerDelegateP"
+- "So24UILargeContentViewerItemP"
+- "So30UIPasteConfigurationSupportingP"
+- "So11UIResponderC"
+- "So30UIResponderStandardEditActionsP"
+- "So15UITableViewCellC"
+- "So18UITraitEnvironmentP"
+- "So23UIUserActivityRestoringP"
+- "So6UIViewC"
+- "s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP"
+- "s35_ExpressibleByBuiltinIntegerLiteralP"
+- "s41_ExpressibleByBuiltinUnicodeScalarLiteralP"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- "10Foundation37_KeyValueCodingAndObservingPublishingP"
+- "s38__DefaultCustomPlaygroundQuickLookableP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/ObjectiveC.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreImage.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Combine.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/QuartzCore.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Accelerate.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Users/ananev/Library/Autosave Information/toDoFirebase/build/Debug-iphonesimulator/PopupDialog/PopupDialog.framework/Modules/PopupDialog.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Dispatch.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Metal.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Darwin.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Foundation.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreFoundation.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreGraphics.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/os.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Swift.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/UIKit.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/SwiftOnoneSupport.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Users/ananev/Library/Autosave Information/toDoFirebase/build/Debug-iphonesimulator/DynamicBlurView/DynamicBlurView.framework/Modules/DynamicBlurView.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Users/ananev/Library/Autosave Information/toDoFirebase/build/Debug-iphonesimulator/FirebaseCore/FirebaseCore.framework/Headers/FirebaseCore-umbrella.h"
+- "/Users/ananev/Library/Autosave Information/toDoFirebase/build/Debug-iphonesimulator/PopupDialog/PopupDialog.framework/Headers/PopupDialog-umbrella.h"
+- "/Users/ananev/Library/Autosave Information/toDoFirebase/build/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FirebaseAuth-umbrella.h"
+- "/Users/ananev/Library/Autosave Information/toDoFirebase/build/Debug-iphonesimulator/FirebaseInstallations/FirebaseInstallations.framework/Headers/FirebaseInstallations-umbrella.h"
+- "/Users/ananev/Library/Autosave Information/toDoFirebase/build/Debug-iphonesimulator/DynamicBlurView/DynamicBlurView.framework/Headers/DynamicBlurView-umbrella.h"
+- "/Users/ananev/Library/Autosave Information/toDoFirebase/build/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FIRUserMetadata.h"
+- "/Users/ananev/Library/Autosave Information/toDoFirebase/build/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FIRAuthAPNSTokenType.h"
+- "/Users/ananev/Library/Autosave Information/toDoFirebase/build/Debug-iphonesimulator/FirebaseCore/FirebaseCore.framework/Headers/FirebaseCore.h"
+- "/Users/ananev/Library/Autosave Information/toDoFirebase/Pods/Firebase/CoreOnly/Sources/Firebase.h"
+- "/Users/ananev/Library/Autosave Information/toDoFirebase/build/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FIRAuthUIDelegate.h"
+- "/Users/ananev/Library/Autosave Information/toDoFirebase/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIRAnalytics+AppDelegate.h"
+- "/Users/ananev/Library/Autosave Information/toDoFirebase/build/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FIRAuth.h"
+- "/Users/ananev/Library/Autosave Information/toDoFirebase/build/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FirebaseAuth.h"
+- "/Users/ananev/Library/Autosave Information/toDoFirebase/build/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FIROAuthCredential.h"
+- "/Users/ananev/Library/Autosave Information/toDoFirebase/build/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FIRAuthCredential.h"
+- "/Users/ananev/Library/Autosave Information/toDoFirebase/build/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FIRPhoneAuthCredential.h"
+- "/Users/ananev/Library/Autosave Information/toDoFirebase/build/Debug-iphonesimulator/FirebaseCore/FirebaseCore.framework/Headers/FIRLoggerLevel.h"
+- "/Users/ananev/Library/Autosave Information/toDoFirebase/build/Debug-iphonesimulator/FirebaseCore/FirebaseCore.framework/Headers/FIRVersion.h"
+- "/Users/ananev/Library/Autosave Information/toDoFirebase/build/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FIRMultiFactorSession.h"
+- "/Users/ananev/Library/Autosave Information/toDoFirebase/build/Debug-iphonesimulator/FirebaseCore/FirebaseCore.framework/Headers/FIRConfiguration.h"
+- "/Users/ananev/Library/Autosave Information/toDoFirebase/build/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FIRMultiFactorAssertion.h"
+- "/Users/ananev/Library/Autosave Information/toDoFirebase/build/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FIRPhoneMultiFactorAssertion.h"
+- "/Users/ananev/Library/Autosave Information/toDoFirebase/build/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FIRUserInfo.h"
+- "/Users/ananev/Library/Autosave Information/toDoFirebase/build/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FIRAdditionalUserInfo.h"
+- "/Users/ananev/Library/Autosave Information/toDoFirebase/build/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FIRMultiFactorInfo.h"
+- "/Users/ananev/Library/Autosave Information/toDoFirebase/build/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FIRPhoneMultiFactorInfo.h"
+- "/Users/ananev/Library/Autosave Information/toDoFirebase/build/Debug-iphonesimulator/FirebaseCore/FirebaseCore.framework/Headers/FIRApp.h"
+- "/Users/ananev/Library/Autosave Information/toDoFirebase/build/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FIROAuthProvider.h"
+- "/Users/ananev/Library/Autosave Information/toDoFirebase/build/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FIRGitHubAuthProvider.h"
+- "/Users/ananev/Library/Autosave Information/toDoFirebase/build/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FIRFederatedAuthProvider.h"
+- "/Users/ananev/Library/Autosave Information/toDoFirebase/build/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FIRGoogleAuthProvider.h"
+- "/Users/ananev/Library/Autosave Information/toDoFirebase/build/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FIRPhoneAuthProvider.h"
+- "/Users/ananev/Library/Autosave Information/toDoFirebase/build/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FIRFacebookAuthProvider.h"
+- "/Users/ananev/Library/Autosave Information/toDoFirebase/build/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FIREmailAuthProvider.h"
+- "/Users/ananev/Library/Autosave Information/toDoFirebase/build/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FIRGameCenterAuthProvider.h"
+- "/Users/ananev/Library/Autosave Information/toDoFirebase/build/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FIRTwitterAuthProvider.h"
+- "/Users/ananev/Library/Autosave Information/toDoFirebase/build/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FIRUser.h"
+- "/Users/ananev/Library/Autosave Information/toDoFirebase/build/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FIRMultiFactorResolver.h"
+- "/Users/ananev/Library/Autosave Information/toDoFirebase/build/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FIRPhoneMultiFactorGenerator.h"
+- "/Users/ananev/Library/Autosave Information/toDoFirebase/build/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FIRMultiFactor.h"
+- "/Users/ananev/Library/Autosave Information/toDoFirebase/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIRAnalytics.h"
+- "/Users/ananev/Library/Autosave Information/toDoFirebase/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FirebaseAnalytics.h"
+- "/Users/ananev/Library/Autosave Information/toDoFirebase/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIRParameterNames.h"
+- "/Users/ananev/Library/Autosave Information/toDoFirebase/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIREventNames.h"
+- "/Users/ananev/Library/Autosave Information/toDoFirebase/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIRUserPropertyNames.h"
+- "/Users/ananev/Library/Autosave Information/toDoFirebase/build/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FIRActionCodeSettings.h"
+- "/Users/ananev/Library/Autosave Information/toDoFirebase/build/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FIRAuthSettings.h"
+- "/Users/ananev/Library/Autosave Information/toDoFirebase/build/Debug-iphonesimulator/FirebaseInstallations/FirebaseInstallations.framework/Headers/FIRInstallations.h"
+- "/Users/ananev/Library/Autosave Information/toDoFirebase/build/Debug-iphonesimulator/FirebaseInstallations/FirebaseInstallations.framework/Headers/FirebaseInstallations.h"
+- "/Users/ananev/Library/Autosave Information/toDoFirebase/build/Debug-iphonesimulator/FirebaseCore/FirebaseCore.framework/Headers/FIROptions.h"
+- "/Users/ananev/Library/Autosave Information/toDoFirebase/build/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FIRAuthErrors.h"
+- "/Users/ananev/Library/Autosave Information/toDoFirebase/build/Debug-iphonesimulator/FirebaseInstallations/FirebaseInstallations.framework/Headers/FIRInstallationsErrors.h"
+- "/Users/ananev/Library/Autosave Information/toDoFirebase/build/Debug-iphonesimulator/PopupDialog/PopupDialog.framework/Headers/PopupDialog-Swift.h"
+- "/Users/ananev/Library/Autosave Information/toDoFirebase/build/Debug-iphonesimulator/DynamicBlurView/DynamicBlurView.framework/Headers/DynamicBlurView-Swift.h"
+- "/Users/ananev/Library/Autosave Information/toDoFirebase/build/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FIRAuthDataResult.h"
+- "/Users/ananev/Library/Autosave Information/toDoFirebase/build/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FIRAuthTokenResult.h"
+- "/Users/ananev/Library/Autosave Information/toDoFirebase/build/Debug-iphonesimulator/FirebaseInstallations/FirebaseInstallations.framework/Headers/FIRInstallationsAuthTokenResult.h"
+- "/Users/ananev/Library/Autosave Information/toDoFirebase/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIRAnalytics+Consent.h"
+- "/Users/ananev/Library/Autosave Information/toDoFirebase/build/Debug-iphonesimulator/DynamicBlurView/DynamicBlurView.framework/Headers/DynamicBlurView.h"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.3.sdk/usr/include/mach-o/dyld.modulemap"
+- "/Users/ananev/Library/Autosave Information/toDoFirebase/Pods/Firebase/CoreOnly/Sources/module.modulemap"
+- "/Users/ananev/Library/Autosave Information/toDoFirebase/build/Debug-iphonesimulator/FirebaseCore/FirebaseCore.framework/Modules/module.modulemap"
+- "/Users/ananev/Library/Autosave Information/toDoFirebase/build/Debug-iphonesimulator/PopupDialog/PopupDialog.framework/Modules/module.modulemap"
+- "/Users/ananev/Library/Autosave Information/toDoFirebase/build/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Modules/module.modulemap"
+- "/Users/ananev/Library/Autosave Information/toDoFirebase/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Modules/module.modulemap"
+- "/Users/ananev/Library/Autosave Information/toDoFirebase/build/Debug-iphonesimulator/FirebaseInstallations/FirebaseInstallations.framework/Modules/module.modulemap"
+- "/Users/ananev/Library/Autosave Information/toDoFirebase/build/Debug-iphonesimulator/DynamicBlurView/DynamicBlurView.framework/Modules/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.3.sdk/usr/include/mach-o/compact_unwind_encoding.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.3.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.3.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.3.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.3.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.3.sdk/System/Library/Frameworks/Accelerate.framework/Headers/Accelerate.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/apinotes/Dispatch.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.3.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.3.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.3.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.3.sdk/System/Library/Frameworks/UserNotifications.framework/Headers/UserNotifications.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/apinotes/os.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.3.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.3.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "8b473fb1cfa666ed4b4b630351fedfcd"

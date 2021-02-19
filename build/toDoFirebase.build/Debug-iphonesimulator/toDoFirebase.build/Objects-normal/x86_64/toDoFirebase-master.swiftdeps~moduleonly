@@ -1,0 +1,15 @@
+version: "Apple Swift version 5.3.2 (swiftlang-1200.0.45 clang-1200.0.32.28)"
+options: "64ca6c9a2ef67804af97fb5fa83c5651"
+build_time: [1613775966, 958804000]
+inputs:
+  "/Users/ananev/Library/Autosave Information/toDoFirebase/toDoFirebase/Controller/LoginViewController.swift": [1613775083, 972859917]
+  "/Users/ananev/Library/Autosave Information/toDoFirebase/toDoFirebase/View/TaskTableViewCell.swift": [1613402731, 661627990]
+  "/Users/ananev/Library/Autosave Information/toDoFirebase/toDoFirebase/Controller/TaskViewController.swift": [1613770505, 282820052]
+  "/Users/ananev/Library/Autosave Information/toDoFirebase/toDoFirebase/AppDelegate.swift": [1613564997, 220981368]
+  "/Users/ananev/Library/Autosave Information/toDoFirebase/toDoFirebase/Model/Authorization.swift": [1613773921, 253805136]
+  "/Users/ananev/Library/Autosave Information/toDoFirebase/toDoFirebase/SceneDelegate.swift": [1613382938, 319372455]
+  "/Users/ananev/Library/Autosave Information/toDoFirebase/toDoFirebase/extensions.swift": [1613767736, 426555833]
+  "/Users/ananev/Library/Autosave Information/toDoFirebase/toDoFirebase/Model/Task.swift": [1613466549, 570609058]
+  "/Users/ananev/Library/Autosave Information/toDoFirebase/toDoFirebase/View/LoginView.swift": [1613775965, 254552111]
+  "/Users/ananev/Library/Autosave Information/toDoFirebase/toDoFirebase/View/TaskUIView.swift": [1613403071, 326702017]
+  "/Users/ananev/Library/Autosave Information/toDoFirebase/toDoFirebase/View/RegistrationView/RegistrationView.swift": [1613768976, 797604354]

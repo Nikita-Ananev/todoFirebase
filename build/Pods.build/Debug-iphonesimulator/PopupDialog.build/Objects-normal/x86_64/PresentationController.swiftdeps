@@ -1,0 +1,536 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "PresentationController"
+provides-nominal:
+- "11PopupDialog22PresentationControllerC"
+provides-member:
+- ["11PopupDialog22PresentationControllerC", ""]
+provides-dynamic-lookup:
+- "$__lazy_storage_$_overlay"
+- "containerViewWillLayoutSubviews"
+- "dismissalTransitionWillBegin"
+- "overlay"
+- "presentationTransitionWillBegin"
+depends-top-level:
+- "AssignmentPrecedence"
+- !private "FloatLiteralType"
+- !private "IntegerLiteralType"
+- "PopupDialogOverlayView"
+- "PresentationController"
+- "UIPresentationController"
+- !private "containerView"
+- !private "frameOfPresentedViewInContainerView"
+- !private "overlay"
+- !private "presentedView"
+- !private "presentedViewController"
+depends-member:
+- !private ["SK", ""]
+- !private ["So15CALayerDelegateP", "alpha"]
+- !private ["So15CALayerDelegateP", "blurView"]
+- !private ["So15CALayerDelegateP", "bounds"]
+- !private ["So15CALayerDelegateP", "frame"]
+- ["So15CALayerDelegateP", "init"]
+- !private ["So15CALayerDelegateP", "insertSubview"]
+- !private ["So15CALayerDelegateP", "refresh"]
+- ["So6CGRectV", "zero"]
+- ["s7CVarArgP", "PopupDialogOverlayView"]
+- ["s7CVarArgP", ""]
+- !private ["s7CVarArgP", "alpha"]
+- !private ["s7CVarArgP", "blurView"]
+- !private ["s7CVarArgP", "bounds"]
+- !private ["s7CVarArgP", "containerView"]
+- !private ["s7CVarArgP", "dismissalTransitionWillBegin"]
+- !private ["s7CVarArgP", "frame"]
+- !private ["s7CVarArgP", "frameOfPresentedViewInContainerView"]
+- ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "insertSubview"]
+- !private ["s7CVarArgP", "overlay"]
+- !private ["s7CVarArgP", "presentedView"]
+- !private ["s7CVarArgP", "presentedViewController"]
+- !private ["s7CVarArgP", "refresh"]
+- !private ["s7CVarArgP", "transitionCoordinator"]
+- !private ["Sl", ""]
+- !private ["SL", ""]
+- ["s28CustomDebugStringConvertibleP", "PopupDialogOverlayView"]
+- ["s28CustomDebugStringConvertibleP", ""]
+- !private ["s28CustomDebugStringConvertibleP", "alpha"]
+- !private ["s28CustomDebugStringConvertibleP", "blurView"]
+- !private ["s28CustomDebugStringConvertibleP", "bounds"]
+- !private ["s28CustomDebugStringConvertibleP", "containerView"]
+- !private ["s28CustomDebugStringConvertibleP", "dismissalTransitionWillBegin"]
+- !private ["s28CustomDebugStringConvertibleP", "frame"]
+- !private ["s28CustomDebugStringConvertibleP", "frameOfPresentedViewInContainerView"]
+- ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "insertSubview"]
+- !private ["s28CustomDebugStringConvertibleP", "overlay"]
+- !private ["s28CustomDebugStringConvertibleP", "presentedView"]
+- !private ["s28CustomDebugStringConvertibleP", "presentedViewController"]
+- !private ["s28CustomDebugStringConvertibleP", "refresh"]
+- !private ["s28CustomDebugStringConvertibleP", "transitionCoordinator"]
+- ["s28CustomDebugStringConvertibleP", "zero"]
+- ["s17CustomReflectableP", "zero"]
+- ["s23CustomStringConvertibleP", "PopupDialogOverlayView"]
+- ["s23CustomStringConvertibleP", ""]
+- !private ["s23CustomStringConvertibleP", "alpha"]
+- !private ["s23CustomStringConvertibleP", "blurView"]
+- !private ["s23CustomStringConvertibleP", "bounds"]
+- !private ["s23CustomStringConvertibleP", "containerView"]
+- !private ["s23CustomStringConvertibleP", "dismissalTransitionWillBegin"]
+- !private ["s23CustomStringConvertibleP", "frame"]
+- !private ["s23CustomStringConvertibleP", "frameOfPresentedViewInContainerView"]
+- ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "insertSubview"]
+- !private ["s23CustomStringConvertibleP", "overlay"]
+- !private ["s23CustomStringConvertibleP", "presentedView"]
+- !private ["s23CustomStringConvertibleP", "presentedViewController"]
+- !private ["s23CustomStringConvertibleP", "refresh"]
+- !private ["s23CustomStringConvertibleP", "transitionCoordinator"]
+- ["Se", "zero"]
+- !private ["15DynamicBlurViewAAC", "refresh"]
+- ["SE", "zero"]
+- ["SQ", "PopupDialogOverlayView"]
+- ["SQ", ""]
+- !private ["SQ", "alpha"]
+- !private ["SQ", "blurView"]
+- !private ["SQ", "bounds"]
+- !private ["SQ", "containerView"]
+- !private ["SQ", "dismissalTransitionWillBegin"]
+- !private ["SQ", "frame"]
+- !private ["SQ", "frameOfPresentedViewInContainerView"]
+- ["SQ", "init"]
+- !private ["SQ", "insertSubview"]
+- !private ["SQ", "overlay"]
+- !private ["SQ", "presentedView"]
+- !private ["SQ", "presentedViewController"]
+- !private ["SQ", "refresh"]
+- !private ["SQ", "transitionCoordinator"]
+- ["SQ", "zero"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", ""]
+- !private ["s25ExpressibleByFloatLiteralP", "FloatLiteralType"]
+- !private ["s25ExpressibleByFloatLiteralP", "init"]
+- !private ["s32ExpressibleByStringInterpolationP", ""]
+- !private ["s26ExpressibleByStringLiteralP", ""]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", ""]
+- ["SH", "PopupDialogOverlayView"]
+- ["SH", ""]
+- !private ["SH", "alpha"]
+- !private ["SH", "blurView"]
+- !private ["SH", "bounds"]
+- !private ["SH", "containerView"]
+- !private ["SH", "dismissalTransitionWillBegin"]
+- !private ["SH", "frame"]
+- !private ["SH", "frameOfPresentedViewInContainerView"]
+- ["SH", "init"]
+- !private ["SH", "insertSubview"]
+- !private ["SH", "overlay"]
+- !private ["SH", "presentedView"]
+- !private ["SH", "presentedViewController"]
+- !private ["SH", "refresh"]
+- !private ["SH", "transitionCoordinator"]
+- !private ["s25LosslessStringConvertibleP", ""]
+- !private ["So8NSCodingP", ""]
+- !private ["So8NSCodingP", "alpha"]
+- !private ["So8NSCodingP", "blurView"]
+- !private ["So8NSCodingP", "bounds"]
+- !private ["So8NSCodingP", "frame"]
+- ["So8NSCodingP", "init"]
+- !private ["So8NSCodingP", "insertSubview"]
+- !private ["So8NSCodingP", "refresh"]
+- !private ["So8NSCodingP", "transitionCoordinator"]
+- !private ["So26NSExtensionRequestHandlingP", "transitionCoordinator"]
+- ["So8NSObjectC", "$__lazy_storage_$_overlay"]
+- ["So8NSObjectC", "PopupDialogOverlayView"]
+- ["So8NSObjectC", ""]
+- ["So8NSObjectC", "__lazy_storage_$_overlay"]
+- !private ["So8NSObjectC", "alpha"]
+- !private ["So8NSObjectC", "blurView"]
+- !private ["So8NSObjectC", "bounds"]
+- !private ["So8NSObjectC", "containerView"]
+- ["So8NSObjectC", "containerViewWillLayoutSubviews"]
+- ["So8NSObjectC", "dismissalTransitionWillBegin"]
+- !private ["So8NSObjectC", "frame"]
+- !private ["So8NSObjectC", "frameForAlignmentRect"]
+- !private ["So8NSObjectC", "frameOfPresentedViewInContainerView"]
+- ["So8NSObjectC", "init"]
+- !private ["So8NSObjectC", "insertSubview"]
+- ["So8NSObjectC", "overlay"]
+- ["So8NSObjectC", "presentationTransitionWillBegin"]
+- !private ["So8NSObjectC", "presentedView"]
+- !private ["So8NSObjectC", "presentedViewController"]
+- !private ["So8NSObjectC", "refresh"]
+- !private ["So8NSObjectC", "transitionCoordinator"]
+- ["So8NSObjectP", "$__lazy_storage_$_overlay"]
+- ["So8NSObjectP", "PopupDialogOverlayView"]
+- ["So8NSObjectP", ""]
+- !private ["So8NSObjectP", "alpha"]
+- !private ["So8NSObjectP", "animate"]
+- !private ["So8NSObjectP", "blurView"]
+- !private ["So8NSObjectP", "bounds"]
+- !private ["So8NSObjectP", "containerView"]
+- ["So8NSObjectP", "containerViewWillLayoutSubviews"]
+- ["So8NSObjectP", "dismissalTransitionWillBegin"]
+- !private ["So8NSObjectP", "frame"]
+- !private ["So8NSObjectP", "frameForAlignmentRect"]
+- !private ["So8NSObjectP", "frameOfPresentedViewInContainerView"]
+- ["So8NSObjectP", "init"]
+- !private ["So8NSObjectP", "insertSubview"]
+- ["So8NSObjectP", "overlay"]
+- ["So8NSObjectP", "presentationTransitionWillBegin"]
+- !private ["So8NSObjectP", "presentedView"]
+- !private ["So8NSObjectP", "presentedViewController"]
+- !private ["So8NSObjectP", "refresh"]
+- !private ["So8NSObjectP", "transitionCoordinator"]
+- ["11PopupDialog0aB11OverlayViewC", ""]
+- !private ["11PopupDialog0aB11OverlayViewC", "alpha"]
+- !private ["11PopupDialog0aB11OverlayViewC", "blurView"]
+- !private ["11PopupDialog0aB11OverlayViewC", "frame"]
+- ["11PopupDialog0aB11OverlayViewC", "init"]
+- !private ["11PopupDialog22PresentationControllerC", "$__lazy_storage_$_overlay"]
+- ["11PopupDialog22PresentationControllerC", "PopupDialogOverlayView"]
+- ["11PopupDialog22PresentationControllerC", ""]
+- !private ["11PopupDialog22PresentationControllerC", "containerView"]
+- ["11PopupDialog22PresentationControllerC", "containerViewWillLayoutSubviews"]
+- ["11PopupDialog22PresentationControllerC", "deinit"]
+- ["11PopupDialog22PresentationControllerC", "dismissalTransitionWillBegin"]
+- !private ["11PopupDialog22PresentationControllerC", "frameOfPresentedViewInContainerView"]
+- ["11PopupDialog22PresentationControllerC", "init"]
+- !private ["11PopupDialog22PresentationControllerC", "overlay"]
+- ["11PopupDialog22PresentationControllerC", "presentationTransitionWillBegin"]
+- !private ["11PopupDialog22PresentationControllerC", "presentedView"]
+- !private ["11PopupDialog22PresentationControllerC", "presentedViewController"]
+- !private ["ST", ""]
+- !private ["s16TextOutputStreamP", ""]
+- !private ["s20TextOutputStreamableP", ""]
+- !private ["So29UIAccessibilityIdentificationP", "alpha"]
+- !private ["So29UIAccessibilityIdentificationP", "blurView"]
+- !private ["So29UIAccessibilityIdentificationP", "bounds"]
+- !private ["So29UIAccessibilityIdentificationP", "frame"]
+- ["So29UIAccessibilityIdentificationP", "init"]
+- !private ["So29UIAccessibilityIdentificationP", "insertSubview"]
+- !private ["So29UIAccessibilityIdentificationP", "refresh"]
+- !private ["So12UIAppearanceP", "alpha"]
+- !private ["So12UIAppearanceP", "blurView"]
+- !private ["So12UIAppearanceP", "bounds"]
+- !private ["So12UIAppearanceP", "frame"]
+- ["So12UIAppearanceP", "init"]
+- !private ["So12UIAppearanceP", "insertSubview"]
+- !private ["So12UIAppearanceP", "refresh"]
+- ["So21UIAppearanceContainerP", "$__lazy_storage_$_overlay"]
+- ["So21UIAppearanceContainerP", "PopupDialogOverlayView"]
+- ["So21UIAppearanceContainerP", ""]
+- ["So21UIAppearanceContainerP", "__lazy_storage_$_overlay"]
+- !private ["So21UIAppearanceContainerP", "alpha"]
+- !private ["So21UIAppearanceContainerP", "blurView"]
+- !private ["So21UIAppearanceContainerP", "bounds"]
+- !private ["So21UIAppearanceContainerP", "containerView"]
+- ["So21UIAppearanceContainerP", "containerViewWillLayoutSubviews"]
+- ["So21UIAppearanceContainerP", "dismissalTransitionWillBegin"]
+- !private ["So21UIAppearanceContainerP", "frame"]
+- !private ["So21UIAppearanceContainerP", "frameOfPresentedViewInContainerView"]
+- ["So21UIAppearanceContainerP", "init"]
+- !private ["So21UIAppearanceContainerP", "insertSubview"]
+- ["So21UIAppearanceContainerP", "overlay"]
+- ["So21UIAppearanceContainerP", "presentationTransitionWillBegin"]
+- !private ["So21UIAppearanceContainerP", "presentedView"]
+- !private ["So21UIAppearanceContainerP", "presentedViewController"]
+- !private ["So21UIAppearanceContainerP", "refresh"]
+- !private ["So21UIAppearanceContainerP", "transitionCoordinator"]
+- ["So18UIContentContainerP", "$__lazy_storage_$_overlay"]
+- ["So18UIContentContainerP", "PopupDialogOverlayView"]
+- ["So18UIContentContainerP", ""]
+- ["So18UIContentContainerP", "__lazy_storage_$_overlay"]
+- !private ["So18UIContentContainerP", "containerView"]
+- ["So18UIContentContainerP", "containerViewWillLayoutSubviews"]
+- ["So18UIContentContainerP", "dismissalTransitionWillBegin"]
+- !private ["So18UIContentContainerP", "frameOfPresentedViewInContainerView"]
+- ["So18UIContentContainerP", "init"]
+- ["So18UIContentContainerP", "overlay"]
+- ["So18UIContentContainerP", "presentationTransitionWillBegin"]
+- !private ["So18UIContentContainerP", "presentedView"]
+- !private ["So18UIContentContainerP", "presentedViewController"]
+- !private ["So18UIContentContainerP", "transitionCoordinator"]
+- !private ["So17UICoordinateSpaceP", "alpha"]
+- !private ["So17UICoordinateSpaceP", "blurView"]
+- !private ["So17UICoordinateSpaceP", "bounds"]
+- !private ["So17UICoordinateSpaceP", "frame"]
+- ["So17UICoordinateSpaceP", "init"]
+- !private ["So17UICoordinateSpaceP", "insertSubview"]
+- !private ["So17UICoordinateSpaceP", "refresh"]
+- !private ["So13UIDynamicItemP", "alpha"]
+- !private ["So13UIDynamicItemP", "blurView"]
+- !private ["So13UIDynamicItemP", "bounds"]
+- !private ["So13UIDynamicItemP", "frame"]
+- ["So13UIDynamicItemP", "init"]
+- !private ["So13UIDynamicItemP", "insertSubview"]
+- !private ["So13UIDynamicItemP", "refresh"]
+- ["So18UIFocusEnvironmentP", "$__lazy_storage_$_overlay"]
+- ["So18UIFocusEnvironmentP", "PopupDialogOverlayView"]
+- ["So18UIFocusEnvironmentP", ""]
+- ["So18UIFocusEnvironmentP", "__lazy_storage_$_overlay"]
+- !private ["So18UIFocusEnvironmentP", "alpha"]
+- !private ["So18UIFocusEnvironmentP", "blurView"]
+- !private ["So18UIFocusEnvironmentP", "bounds"]
+- !private ["So18UIFocusEnvironmentP", "containerView"]
+- ["So18UIFocusEnvironmentP", "containerViewWillLayoutSubviews"]
+- ["So18UIFocusEnvironmentP", "dismissalTransitionWillBegin"]
+- !private ["So18UIFocusEnvironmentP", "frame"]
+- !private ["So18UIFocusEnvironmentP", "frameOfPresentedViewInContainerView"]
+- ["So18UIFocusEnvironmentP", "init"]
+- !private ["So18UIFocusEnvironmentP", "insertSubview"]
+- ["So18UIFocusEnvironmentP", "overlay"]
+- ["So18UIFocusEnvironmentP", "presentationTransitionWillBegin"]
+- !private ["So18UIFocusEnvironmentP", "presentedView"]
+- !private ["So18UIFocusEnvironmentP", "presentedViewController"]
+- !private ["So18UIFocusEnvironmentP", "refresh"]
+- !private ["So18UIFocusEnvironmentP", "transitionCoordinator"]
+- !private ["So11UIFocusItemP", "alpha"]
+- !private ["So11UIFocusItemP", "blurView"]
+- !private ["So11UIFocusItemP", "bounds"]
+- !private ["So11UIFocusItemP", "frame"]
+- ["So11UIFocusItemP", "init"]
+- !private ["So11UIFocusItemP", "insertSubview"]
+- !private ["So11UIFocusItemP", "refresh"]
+- !private ["So20UIFocusItemContainerP", "alpha"]
+- !private ["So20UIFocusItemContainerP", "blurView"]
+- !private ["So20UIFocusItemContainerP", "bounds"]
+- !private ["So20UIFocusItemContainerP", "frame"]
+- ["So20UIFocusItemContainerP", "init"]
+- !private ["So20UIFocusItemContainerP", "insertSubview"]
+- !private ["So20UIFocusItemContainerP", "refresh"]
+- !private ["So24UILargeContentViewerItemP", "alpha"]
+- !private ["So24UILargeContentViewerItemP", "blurView"]
+- !private ["So24UILargeContentViewerItemP", "bounds"]
+- !private ["So24UILargeContentViewerItemP", "frame"]
+- ["So24UILargeContentViewerItemP", "init"]
+- !private ["So24UILargeContentViewerItemP", "insertSubview"]
+- !private ["So24UILargeContentViewerItemP", "refresh"]
+- !private ["So30UIPasteConfigurationSupportingP", "alpha"]
+- !private ["So30UIPasteConfigurationSupportingP", "blurView"]
+- !private ["So30UIPasteConfigurationSupportingP", "bounds"]
+- !private ["So30UIPasteConfigurationSupportingP", "frame"]
+- !private ["So30UIPasteConfigurationSupportingP", "frameForAlignmentRect"]
+- ["So30UIPasteConfigurationSupportingP", "init"]
+- !private ["So30UIPasteConfigurationSupportingP", "insertSubview"]
+- !private ["So30UIPasteConfigurationSupportingP", "refresh"]
+- !private ["So30UIPasteConfigurationSupportingP", "transitionCoordinator"]
+- ["So24UIPresentationControllerC", "$__lazy_storage_$_overlay"]
+- ["So24UIPresentationControllerC", "PopupDialogOverlayView"]
+- ["So24UIPresentationControllerC", ""]
+- ["So24UIPresentationControllerC", "__lazy_storage_$_overlay"]
+- !private ["So24UIPresentationControllerC", "containerView"]
+- ["So24UIPresentationControllerC", "containerViewWillLayoutSubviews"]
+- ["So24UIPresentationControllerC", "dismissalTransitionWillBegin"]
+- !private ["So24UIPresentationControllerC", "frameOfPresentedViewInContainerView"]
+- ["So24UIPresentationControllerC", "init"]
+- ["So24UIPresentationControllerC", "overlay"]
+- ["So24UIPresentationControllerC", "presentationTransitionWillBegin"]
+- !private ["So24UIPresentationControllerC", "presentedView"]
+- !private ["So24UIPresentationControllerC", "presentedViewController"]
+- ["So11UIResponderC", ""]
+- !private ["So11UIResponderC", "alpha"]
+- !private ["So11UIResponderC", "blurView"]
+- !private ["So11UIResponderC", "bounds"]
+- !private ["So11UIResponderC", "frame"]
+- !private ["So11UIResponderC", "frameForAlignmentRect"]
+- ["So11UIResponderC", "init"]
+- !private ["So11UIResponderC", "insertSubview"]
+- !private ["So11UIResponderC", "refresh"]
+- !private ["So11UIResponderC", "transitionCoordinator"]
+- !private ["So30UIResponderStandardEditActionsP", "alpha"]
+- !private ["So30UIResponderStandardEditActionsP", "blurView"]
+- !private ["So30UIResponderStandardEditActionsP", "bounds"]
+- !private ["So30UIResponderStandardEditActionsP", "frame"]
+- !private ["So30UIResponderStandardEditActionsP", "frameForAlignmentRect"]
+- ["So30UIResponderStandardEditActionsP", "init"]
+- !private ["So30UIResponderStandardEditActionsP", "insertSubview"]
+- !private ["So30UIResponderStandardEditActionsP", "refresh"]
+- !private ["So30UIResponderStandardEditActionsP", "transitionCoordinator"]
+- !private ["So16UIStateRestoringP", "transitionCoordinator"]
+- ["So18UITraitEnvironmentP", "$__lazy_storage_$_overlay"]
+- ["So18UITraitEnvironmentP", "PopupDialogOverlayView"]
+- ["So18UITraitEnvironmentP", ""]
+- ["So18UITraitEnvironmentP", "__lazy_storage_$_overlay"]
+- !private ["So18UITraitEnvironmentP", "alpha"]
+- !private ["So18UITraitEnvironmentP", "blurView"]
+- !private ["So18UITraitEnvironmentP", "bounds"]
+- !private ["So18UITraitEnvironmentP", "containerView"]
+- ["So18UITraitEnvironmentP", "containerViewWillLayoutSubviews"]
+- ["So18UITraitEnvironmentP", "dismissalTransitionWillBegin"]
+- !private ["So18UITraitEnvironmentP", "frame"]
+- !private ["So18UITraitEnvironmentP", "frameOfPresentedViewInContainerView"]
+- ["So18UITraitEnvironmentP", "init"]
+- !private ["So18UITraitEnvironmentP", "insertSubview"]
+- ["So18UITraitEnvironmentP", "overlay"]
+- ["So18UITraitEnvironmentP", "presentationTransitionWillBegin"]
+- !private ["So18UITraitEnvironmentP", "presentedView"]
+- !private ["So18UITraitEnvironmentP", "presentedViewController"]
+- !private ["So18UITraitEnvironmentP", "refresh"]
+- !private ["So18UITraitEnvironmentP", "transitionCoordinator"]
+- !private ["So23UIUserActivityRestoringP", "alpha"]
+- !private ["So23UIUserActivityRestoringP", "blurView"]
+- !private ["So23UIUserActivityRestoringP", "bounds"]
+- !private ["So23UIUserActivityRestoringP", "frame"]
+- !private ["So23UIUserActivityRestoringP", "frameForAlignmentRect"]
+- ["So23UIUserActivityRestoringP", "init"]
+- !private ["So23UIUserActivityRestoringP", "insertSubview"]
+- !private ["So23UIUserActivityRestoringP", "refresh"]
+- !private ["So23UIUserActivityRestoringP", "transitionCoordinator"]
+- ["So6UIViewC", ""]
+- !private ["So6UIViewC", "alpha"]
+- !private ["So6UIViewC", "blurView"]
+- !private ["So6UIViewC", "bounds"]
+- !private ["So6UIViewC", "frame"]
+- ["So6UIViewC", "init"]
+- !private ["So6UIViewC", "insertSubview"]
+- !private ["So6UIViewC", "refresh"]
+- !private ["So16UIViewControllerC", "transitionCoordinator"]
+- !private ["So37UIViewControllerTransitionCoordinatorP", "animate"]
+- !private ["So44UIViewControllerTransitionCoordinatorContextP", ""]
+- !private ["So44UIViewControllerTransitionCoordinatorContextP", "animate"]
+- ["s30_CustomPlaygroundQuickLookableP", "zero"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", ""]
+- !private ["s33_ExpressibleByBuiltinFloatLiteralP", "init"]
+- !private ["s35_ExpressibleByBuiltinIntegerLiteralP", "init"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", ""]
+- ["10Foundation27_KeyValueCodingAndObservingP", "PopupDialogOverlayView"]
+- ["10Foundation27_KeyValueCodingAndObservingP", ""]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "alpha"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "blurView"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "bounds"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "containerView"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "dismissalTransitionWillBegin"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "frame"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "frameOfPresentedViewInContainerView"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "insertSubview"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "overlay"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "presentedView"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "presentedViewController"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "refresh"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "transitionCoordinator"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", "PopupDialogOverlayView"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", ""]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "alpha"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "blurView"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "bounds"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "containerView"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "dismissalTransitionWillBegin"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "frame"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "frameOfPresentedViewInContainerView"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", "init"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "insertSubview"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "overlay"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "presentedView"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "presentedViewController"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "refresh"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "transitionCoordinator"]
+- ["s21_ObjectiveCBridgeableP", "zero"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "alpha"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "blurView"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "bounds"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "frame"]
+- ["s38__DefaultCustomPlaygroundQuickLookableP", "init"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "insertSubview"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "refresh"]
+depends-nominal:
+- !private "SK"
+- "So15CALayerDelegateP"
+- "So6CGRectV"
+- "s7CVarArgP"
+- !private "Sl"
+- !private "SL"
+- "s28CustomDebugStringConvertibleP"
+- "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- "Se"
+- !private "15DynamicBlurViewAAC"
+- "SE"
+- "SQ"
+- !private "s43ExpressibleByExtendedGraphemeClusterLiteralP"
+- !private "s25ExpressibleByFloatLiteralP"
+- !private "s32ExpressibleByStringInterpolationP"
+- !private "s26ExpressibleByStringLiteralP"
+- !private "s33ExpressibleByUnicodeScalarLiteralP"
+- "SH"
+- !private "s25LosslessStringConvertibleP"
+- "So8NSCodingP"
+- !private "So26NSExtensionRequestHandlingP"
+- "So8NSObjectC"
+- "So8NSObjectP"
+- "11PopupDialog0aB11OverlayViewC"
+- "11PopupDialog22PresentationControllerC"
+- !private "ST"
+- !private "s16TextOutputStreamP"
+- !private "s20TextOutputStreamableP"
+- "So29UIAccessibilityIdentificationP"
+- "So12UIAppearanceP"
+- "So21UIAppearanceContainerP"
+- "So18UIContentContainerP"
+- "So17UICoordinateSpaceP"
+- "So13UIDynamicItemP"
+- "So18UIFocusEnvironmentP"
+- "So11UIFocusItemP"
+- "So20UIFocusItemContainerP"
+- "So24UILargeContentViewerItemP"
+- "So30UIPasteConfigurationSupportingP"
+- "So24UIPresentationControllerC"
+- "So11UIResponderC"
+- "So30UIResponderStandardEditActionsP"
+- !private "So16UIStateRestoringP"
+- "So18UITraitEnvironmentP"
+- "So23UIUserActivityRestoringP"
+- "So6UIViewC"
+- !private "So16UIViewControllerC"
+- !private "So37UIViewControllerTransitionCoordinatorP"
+- !private "So44UIViewControllerTransitionCoordinatorContextP"
+- "s30_CustomPlaygroundQuickLookableP"
+- !private "s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP"
+- !private "s33_ExpressibleByBuiltinFloatLiteralP"
+- !private "s35_ExpressibleByBuiltinIntegerLiteralP"
+- !private "s41_ExpressibleByBuiltinUnicodeScalarLiteralP"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- "10Foundation37_KeyValueCodingAndObservingPublishingP"
+- "s21_ObjectiveCBridgeableP"
+- "s38__DefaultCustomPlaygroundQuickLookableP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/ObjectiveC.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreImage.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Combine.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/QuartzCore.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Accelerate.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Dispatch.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Metal.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Darwin.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Foundation.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreFoundation.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreGraphics.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/os.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Swift.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/UIKit.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/SwiftOnoneSupport.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Users/ananev/Library/Autosave Information/toDoFirebase/build/Debug-iphonesimulator/DynamicBlurView/DynamicBlurView.framework/Modules/DynamicBlurView.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Users/ananev/Library/Autosave Information/toDoFirebase/Pods/Target Support Files/PopupDialog/PopupDialog-umbrella.h"
+- "/Users/ananev/Library/Autosave Information/toDoFirebase/Pods/Target Support Files/DynamicBlurView/DynamicBlurView-umbrella.h"
+- "/Users/ananev/Library/Autosave Information/toDoFirebase/build/Debug-iphonesimulator/DynamicBlurView/DynamicBlurView.framework/Headers/DynamicBlurView-Swift.h"
+- "/Users/ananev/Library/Autosave Information/toDoFirebase/Pods/DynamicBlurView/Sources/DynamicBlurView/DynamicBlurView.h"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.3.sdk/usr/include/mach-o/dyld.modulemap"
+- "/Users/ananev/Library/Autosave Information/toDoFirebase/build/Pods.build/Debug-iphonesimulator/PopupDialog.build/unextended-module.modulemap"
+- "/Users/ananev/Library/Autosave Information/toDoFirebase/build/Pods.build/Debug-iphonesimulator/DynamicBlurView.build/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.3.sdk/usr/include/mach-o/compact_unwind_encoding.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.3.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.3.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.3.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.3.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.3.sdk/System/Library/Frameworks/Accelerate.framework/Headers/Accelerate.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/apinotes/Dispatch.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.3.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.3.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.3.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.3.sdk/System/Library/Frameworks/UserNotifications.framework/Headers/UserNotifications.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/apinotes/os.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.3.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.3.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "cd91e389314c3bbdb6219c2b3c6ff0f7"

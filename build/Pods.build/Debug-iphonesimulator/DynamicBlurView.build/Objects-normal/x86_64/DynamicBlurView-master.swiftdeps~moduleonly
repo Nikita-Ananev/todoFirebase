@@ -1,0 +1,11 @@
+version: "Apple Swift version 5.3.2 (swiftlang-1200.0.45 clang-1200.0.32.28)"
+options: "73061d5ee146003b03fbf63b15351c1f"
+build_time: [1613774737, 800956000]
+inputs:
+  "/Users/ananev/Library/Autosave Information/toDoFirebase/Pods/DynamicBlurView/Sources/DynamicBlurView/BlurLayer.swift": [1613391519, 856912949]
+  "/Users/ananev/Library/Autosave Information/toDoFirebase/Pods/DynamicBlurView/Sources/DynamicBlurView/CaptureQuality.swift": [1613391519, 855851645]
+  "/Users/ananev/Library/Autosave Information/toDoFirebase/Pods/DynamicBlurView/Sources/DynamicBlurView/CGContext+CGImage.swift": [1613391519, 855597088]
+  "/Users/ananev/Library/Autosave Information/toDoFirebase/Pods/DynamicBlurView/Sources/DynamicBlurView/CGImage+Accelerate.swift": [1613391519, 855423559]
+  "/Users/ananev/Library/Autosave Information/toDoFirebase/Pods/DynamicBlurView/Sources/DynamicBlurView/DynamicBlurView.swift": [1613391519, 857096610]
+  "/Users/ananev/Library/Autosave Information/toDoFirebase/Pods/DynamicBlurView/Sources/DynamicBlurView/TrackingMode.swift": [1613391519, 856467455]
+  "/Users/ananev/Library/Autosave Information/toDoFirebase/Pods/DynamicBlurView/Sources/DynamicBlurView/UIImage+Blur.swift": [1613391519, 856649511]
